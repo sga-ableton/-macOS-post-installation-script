@@ -5,9 +5,9 @@
 # Set the following to match the Live executable you are using:
 #
 #
-EDITION="Ableton Live 12 [Suite, Intro]"
+EDITION="Ableton Live 12 Suite"
 EXECUTABLE="Live"
-VERSION="e.g. 12.0.11"
+VERSION="12.0.20"
   
 #
 #
